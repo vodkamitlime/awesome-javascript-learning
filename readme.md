@@ -19,6 +19,7 @@ This list is mainly about JavaScript - the language. Not about APIs, tooling, fr
 - [DOM related](#dom-related)
 - [Node.js](#nodejs)
 - [Related](#related)
+- [Personally Added Links by @vodkamitlime](#Personally-Added)
 
 ---
 
@@ -132,3 +133,9 @@ Thin books which you can get through in a few days.
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Michael Kühnel](http://micromata.de) has waived all copyright and related or neighboring rights to this work.
+
+---
+
+## Personally-Added
+
+[FreeCodeCamp-Learn Javascript for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg&ab_channel=freeCodeCamp.org)
