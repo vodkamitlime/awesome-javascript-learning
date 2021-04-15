@@ -139,3 +139,6 @@ To the extent possible under law, [Michael Kühnel](http://micromata.de) has wai
 ## Personally-Added
 
 [FreeCodeCamp-Learn Javascript for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg&ab_channel=freeCodeCamp.org)
+[Javascript Tutorial](https://www.javascripttutorial.net/es6/)
+testing-1
+testing-2
